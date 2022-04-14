@@ -1,1 +1,1 @@
-# NLP_Study_Sessions
+# NLP Study Sessions
